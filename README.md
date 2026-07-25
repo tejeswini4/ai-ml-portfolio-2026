@@ -35,6 +35,25 @@ This repository contains my Artificial Intelligence and Machine Learning learnin
 | Project 2 | Planned |
 | Project 3 | Planned |
 
+
+
+# Project 01
+
+## Title
+(To be decided)
+
+## Problem Statement
+
+## Dataset
+
+## Technologies Used
+
+## Approach
+
+## Results
+
+## Future Improvements
+
 ## Learning Roadmap
 
 - Python for ML
