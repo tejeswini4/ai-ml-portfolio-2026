@@ -61,3 +61,29 @@ This repository contains my Artificial Intelligence and Machine Learning learnin
 - Machine Learning algorithms
 - Deep Learning
 - Real-world AI projects
+
+
+
+## Completed Projects
+
+### 1. Customer Churn Prediction using Machine Learning
+
+A machine learning classification project to predict customer churn using customer behaviour data.
+
+Tech Stack:
+- Python
+- Pandas
+- Scikit-learn
+- Random Forest
+- Machine Learning
+
+Models:
+- Logistic Regression
+- Decision Tree
+- Random Forest
+
+Status:
+Completed
+
+Repository:
+Projects/Project_01_Customer_Churn_Prediction
