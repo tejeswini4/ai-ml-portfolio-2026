@@ -8,22 +8,24 @@
 
 ## Best Model
 
-Random Forest (after hyperparameter tuning)
+Random Forest with Hyperparameter Tuning
 
 ## Evaluation Metrics
 
-Accuracy:
-(Add your final accuracy value)
+Accuracy: classification_report(y_test, best_pred)
 
-Precision:
-(Add value from classification report)
+Precision: classification_report(y_test, best_pred)
 
-Recall:
-(Add value from classification report)
+Recall: classification_report(y_test, best_pred)
 
-F1 Score:
-(Add value from classification report)
+F1 Score: classification_report(y_test, best_pred)
+
+## Visualizations
+
+- Churn Distribution
+- Confusion Matrix
+- Model Accuracy Comparison
 
 ## Conclusion
 
-The Random Forest model achieved the best performance among the tested models and was selected as the final prediction model.
+The Random Forest model achieved the best performance and was selected as the final customer churn prediction model.
